@@ -23,7 +23,7 @@
 		"psr-4": {
 			"Syscodes\\Container\\": ""
 		}
-    },
+	},
 	"minimum-stability": "dev",
 	"prefer-stable": true
 }
